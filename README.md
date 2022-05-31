@@ -1,6 +1,6 @@
 ### Hi There, I'm Gabriel 👋
 
-- <img align="center" alt="Rafa-Js" height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> Full-Stack JavaScript Web Developer
+- <img align="center" alt="Rafa-Js" height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> Full-Stack JavaScript Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📩 You can contact me by email: sendmessage@gabo.email
 - 🤗 If I don't know it, I'll learn it. 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Gabo-Tech " alt="Gabo-Tech" /> </p>
