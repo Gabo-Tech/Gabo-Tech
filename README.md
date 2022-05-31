@@ -6,18 +6,18 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Gabo-Tech " alt="Gabo-Tech" /> </p>
 
 <div align="center">
-  <a href="https://github.com/Gabo-Tech"><br><br><br>
+  <a href="https://github.com/Gabo-Tech"><br><br>
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Gabo-Tech&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br><br>
   <img height="198em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabo-Tech&layout=compact&langs_count=7&theme=dark"/>
-</div><br><br><br><br><br>
+</div><br><br><br>
   <div align="center">
   <a href="https://github.com/Gabo-Tech">
   <img height="400em"  src="https://wakatime.com/share/@3820edef-161f-4e1e-ae66-f24e2cd7d16a/2f236fa0-40d5-4f7e-9be0-e6ea43eff3dd.svg"/><br><br>
   <img height="400em" src="https://wakatime.com/share/@3820edef-161f-4e1e-ae66-f24e2cd7d16a/7c4a24e6-a376-41bd-8c0d-647dc96041f4.svg"/>
-</div>
+</div><br><br>
 
 </div>
-<div sEditing README.md/README.md at main · Gabo-Tech/README.mdtyle="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
