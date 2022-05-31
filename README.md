@@ -11,9 +11,8 @@
   <img height="198em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabo-Tech&layout=compact&langs_count=7&theme=dark"/>
     
 </div>
-   <div align="center"><figure><embed src="https://wakatime.com/share/@3820edef-161f-4e1e-ae66-f24e2cd7d16a/7c4a24e6-a376-41bd-8c0d-647dc96041f4.svg"></embed></figure><br>
-  <figure><embed src="https://wakatime.com/share/@3820edef-161f-4e1e-ae66-f24e2cd7d16a/2f236fa0-40d5-4f7e-9be0-e6ea43eff3dd.svg"></embed></figure></div>
-  
+   <figure><embed src="https://wakatime.com/share/@3820edef-161f-4e1e-ae66-f24e2cd7d16a/7c4a24e6-a376-41bd-8c0d-647dc96041f4.svg"></embed></figure><br>
+  <figure><embed src="https://wakatime.com/share/@3820edef-161f-4e1e-ae66-f24e2cd7d16a/2f236fa0-40d5-4f7e-9be0-e6ea43eff3dd.svg"></embed></figure> 
 
 </div>
 <div sEditing README.md/README.md at main · Gabo-Tech/README.mdtyle="display: inline_block"><br>
