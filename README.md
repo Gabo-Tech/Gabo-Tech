@@ -6,7 +6,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Gabo-Tech " alt="Gabo-Tech" /> </p>
 
 <div align="center">
-  <a href="https://github.com/Gabo-Tech"><br>
+  <a href="https://github.com/Gabo-Tech"></a><br>
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Gabo-Tech&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br><br>
   <img height="198em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabo-Tech&layout=compact&langs_count=7&theme=dark"/>
 </div><br><br>
