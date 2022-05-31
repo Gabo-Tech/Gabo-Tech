@@ -24,7 +24,7 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Express" height="30" width="30" src="https://symbols.getvecta.com/stencil_79/88_expressjs-icon.54bb6035d3.jpg">
-  <img align="center" alt="MySQL" height="30" width="30" src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png">
+  <img align="center" alt="MySQL" height="30" width="30" src="https://pngimg.com/uploads/mysql/mysql_PNG24.png">
   <img align="center" alt="Mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="VisualStudio" height="30" width="30" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png">
