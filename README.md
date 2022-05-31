@@ -9,10 +9,12 @@
   <a href="https://github.com/Gabo-Tech">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Gabo-Tech&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br>
   <img height="198em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabo-Tech&layout=compact&langs_count=7&theme=dark"/>
-    
 </div>
-   <figure><embed src="https://wakatime.com/share/@3820edef-161f-4e1e-ae66-f24e2cd7d16a/7c4a24e6-a376-41bd-8c0d-647dc96041f4.svg"></embed></figure><br>
-  <figure><embed src="https://wakatime.com/share/@3820edef-161f-4e1e-ae66-f24e2cd7d16a/2f236fa0-40d5-4f7e-9be0-e6ea43eff3dd.svg"></embed></figure> 
+  <div align="center">
+  <a href="https://github.com/Gabo-Tech">
+  <img src="https://wakatime.com/share/@3820edef-161f-4e1e-ae66-f24e2cd7d16a/7c4a24e6-a376-41bd-8c0d-647dc96041f4.svg"/><br>
+  <img src="https://wakatime.com/share/@3820edef-161f-4e1e-ae66-f24e2cd7d16a/2f236fa0-40d5-4f7e-9be0-e6ea43eff3dd.svg"/>
+</div>
 
 </div>
 <div sEditing README.md/README.md at main · Gabo-Tech/README.mdtyle="display: inline_block"><br>
