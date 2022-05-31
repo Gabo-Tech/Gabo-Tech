@@ -6,10 +6,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Gabo-Tech " alt="Gabo-Tech" /> </p>
 
 <div align="center">
-  <a href="https://github.com/Gabo-Tech"><br><br>
+  <a href="https://github.com/Gabo-Tech"><br>
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Gabo-Tech&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br><br>
   <img height="198em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabo-Tech&layout=compact&langs_count=7&theme=dark"/>
-</div><br><br><br>
+</div><br><br>
   <div align="center">
   <a href="https://github.com/Gabo-Tech">
   <img height="400em"  src="https://wakatime.com/share/@3820edef-161f-4e1e-ae66-f24e2cd7d16a/2f236fa0-40d5-4f7e-9be0-e6ea43eff3dd.svg"/><br><br>
