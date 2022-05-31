@@ -28,6 +28,7 @@
   <img align="center" alt="VisualStudio" height="30" width="30" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png">
   <img align="center" alt="Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
   <img align="center" alt="Slack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
+  <img align="center" alt="Slack" height="30" width="40" src="https://symbols.getvecta.com/stencil_79/88_expressjs-icon.54bb6035d3.jpg">
   <img align="right" alt="Gabo-Avatar" height="150" style="border-radius:60px;" src='https://avataaars.io/?avatarStyle=Transparent&topType=ShortHairShortWaved&accessoriesType=Blank&hairColor=Blonde&clotheType=Hoodie&clotheColor=Gray&eyeType=Default&eyebrowType=RaisedExcitedNatural&mouthType=Twinkle&skinColor=Light'
 />
 </div>
