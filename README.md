@@ -1,4 +1,4 @@
-### Hi there!, I'm Gabriel 👋
+### Hi there! I'm Gabriel. 👋
 
 - <img align="center" alt="Rafa-Js" height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> Full-Stack JavaScript Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📩 You can contact me by email: sendmessage@gabo.email
