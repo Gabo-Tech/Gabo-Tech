@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/Gabo-Tech"></a><br>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Gabo-Tech&show_icons=true&bg_color=DEG,850B20,37000A&border_radius=20&title_color=ffffff&text_color=ffffff&icon_color=249f89&include_all_commits=true&count_private=true"/><br><br>
-  <img height="198em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabo-Tech&layout=compact&langs_count=8&bg_color=DEG,850B20,37000A&border_radius=20&title_color=ffffff&text_color=ffffff&icon_color=249f89"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Gabo-Tech&show_icons=true&bg_color=DEG,000000,17b900&border_radius=20&title_color=ffffff&text_color=ffffff&icon_color=249f89&include_all_commits=true&count_private=true"/><br><br>
+  <img height="198em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabo-Tech&layout=compact&langs_count=8&bg_color=DEG,000000,17b900&border_radius=20&title_color=ffffff&text_color=ffffff&icon_color=249f89"/>
 </div><br><br>
   <div align="center">
   <a href="https://github.com/Gabo-Tech">
@@ -41,6 +41,7 @@
   <img height="24px" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img height="24px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img height="24px" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+    <img height="24px" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img height="24px" src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white">
   <img height="24px" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
 </div>
