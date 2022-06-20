@@ -8,7 +8,7 @@
 <div align="center">
   <a href="https://github.com/Gabo-Tech"></a><br>
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Gabo-Tech&show_icons=true&bg_color=DEG,000000,17b900&border_radius=20&title_color=ffffff&text_color=ffffff&icon_color=249f89&include_all_commits=true&count_private=true"/><br><br>
-  <img height="198em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabo-Tech&layout=compact&langs_count=8&bg_color=DEG,000000,17b900&border_radius=20&title_color=ffffff&text_color=ffffff&icon_color=249f89"/>
+  <img height="226em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabo-Tech&layout=compact&langs_count=8&bg_color=DEG,000000,17b900&border_radius=20&title_color=ffffff&text_color=ffffff&icon_color=249f89"/>
 </div><br><br>
   <div align="center">
   <a href="https://github.com/Gabo-Tech">
