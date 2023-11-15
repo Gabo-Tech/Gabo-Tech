@@ -70,6 +70,8 @@ My Stack: <img height="24px" src="https://user-images.githubusercontent.com/7094
     <img height="24px" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white">
      <img height="24px" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)">
  <img height="24px" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
+   <img height="24px" src="https://img.shields.io/badge/svelte-%23E34F26.svg?style=for-the-badge&logo=svelte&logoColor=white">
+   <img height="24px" src="https://img.shields.io/badge/tauri-%23FF9900.svg?style=for-the-badge&logo=tauri&logoColor=white">
 </div>
 
 <h2>BackEnd</h2>
