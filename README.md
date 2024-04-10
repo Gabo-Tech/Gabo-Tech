@@ -2,8 +2,8 @@
   <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100"/>
 </div>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!;I'm+Gabriel!+👋)](https://git.io/typing-svg)
 
-### Hi there! I'm Gabriel. 👋
 
 - <img align="center" alt="Rafa-Js" height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> Full-Stack JavaScript Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📩 You can contact me by email: sendmessage@gabo.email
